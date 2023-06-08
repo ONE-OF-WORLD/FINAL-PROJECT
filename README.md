@@ -1,4 +1,4 @@
-# 🚀TEAM BORAM
+# 🚀TEAM roCAT
 <div align="center">
  <img src="https://github.com/ONE-OF-WORLD/FINAL-PROJECT/blob/0f29788ed0d54ed806fdabaf71dc9ca9d9366860/img/%EA%B7%B8%EB%A6%BC1.png">
  <br>
