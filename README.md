@@ -1,9 +1,9 @@
-# 🦖TEAM BORAM
+# 🚀TEAM BORAM
 <div align="center">
  <img src="https://github.com/ONE-OF-WORLD/FINAL-PROJECT/blob/0f29788ed0d54ed806fdabaf71dc9ca9d9366860/img/%EA%B7%B8%EB%A6%BC1.png">
  <br>
 <b>💫단계별 인프라 구축으로 천만 인프라 구축하기</b><br>
- 💫팀명 : 로CAT모션 <br>
+ 💫팀명 : 로캣모션 (roCATmotion) <br>
  💫프로젝트 기간: 2023.05.30 ~ 2023.07.20<br>
 </div>
 
@@ -11,7 +11,7 @@
 
 
 
-# 🦖TEAM MEMBER
+# 🚀TEAM MEMBER
 
 |![백승준](./img/bsj.png)|![김호현](./img/khh.png)|![이정훈](./img/ljh.jpg)|![은효경](./img/ehk.png)|
 |:---:|:---:|:---:|:---:|
@@ -24,7 +24,7 @@
 ## 📌담당 역할 
 <div markdown="1">
 
-**🦖백승준 (TEAM LEADER)**
+**🚀백승준 (TEAM LEADER)**
 - Physical Design 시안
 - 어플리케이션 구축
 - 클라우드 인프라 점검 및 디버깅
@@ -33,7 +33,7 @@
 - 테스트 시나리오 작성
 - IaC 배포 시나리오 작성 & 오류 수정
 
-**🦖김호현**
+**🚀김호현**
 - 클라우드 아키텍처 개념도 작성
 - Logical Design 시안
 - 클라우드 인프라 구축
@@ -43,7 +43,7 @@
 - 테스트 시나리오 검증
 - IaC 배포 시나리오 작성
 
-**🦖이정훈**
+**🚀이정훈**
 - 일정 계획
 - Logical Design 시안
 - 클라우드 인프라 구축
@@ -54,7 +54,7 @@
 - IaC 배포 시나리오 증검증
 
 
-**🦖은효경**
+**🚀은효경**
 - 프로젝트 세부 내용
 - Physical Design 시안
 - 모니터링 시스템 구축 및 가이드 작성
@@ -79,6 +79,6 @@
  <img src="https://img.shields.io/badge/Bastion-D9D9DB?styl=flat&logo=Bastion&logoColor=grey"/>
 </div>
 
-## 🧑‍💻Clone-Coding
+## 💻Clone-Coding
 - `FRONT` : 💫[FRONT](https://github.com/ONE-OF-WORLD/FINAL-FRONT)
 - `BACK` : 💫[BACK](https://github.com/ONE-OF-WORLD/FINAL-BACK)
