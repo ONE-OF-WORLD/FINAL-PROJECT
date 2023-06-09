@@ -79,7 +79,8 @@
 <div align="center">
 <p> ⚓   ⚓ </p>
  <img src="https://img.shields.io/badge/Docker-9EE2FF?style=flat&logo=Docker&logoColor=blue"/>
- <img src="https://img.shields.io/badge/Kubernetes-9EE2FF?style=flat&logo=Kubernetes&logoColor=blue"/>
+ <img src="https://img.shields.io/badge/Harbor-9EE3FF?style=flat&logo=Harbor&logoColor=blue"/>
+ <img src="https://img.shields.io/badge/Kubernetes-9EE4FF?style=flat&logo=Kubernetes&logoColor=blue"/>
 </div>
 <br>
 <div align="center">
