@@ -73,7 +73,7 @@
 
 <div align="center">
 <p> 🧷IaC🧷 </p>
- <img src="https://img.shields.io/badge/Jenkins-FFFFFF?style=flat&logo=Jenkins&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Jenkins-FF161D?style=flat&logo=Jenkins&logoColor=white"/>
  <img src="https://img.shields.io/badge/Argo-181717?style=flat&logo=Argo&logoColor=orange"/>
 </div>
 
