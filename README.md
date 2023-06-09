@@ -98,7 +98,8 @@
  <img src="https://img.shields.io/badge/Miro-FFFF00?style=flat&logo=Miro&logoColor=yellow"/>
  <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white"/>
  <img src="https://img.shields.io/badge/Nginx-005500?style=flat&logo=Nginx&logoColor=green"/>
- <img src="https://img.shields.io/badge/React-FFFFFF?style=flat&logo=React&logoColor=blue"/> <br>
+ <img src="https://img.shields.io/badge/React-FFFFFF?style=flat&logo=React&logoColor=blue"/> 
+ <img src="https://img.shields.io/badge/Node.js-FFFFEE?style=flat&logo=Node.js&logoColor=deepgreen"/> <br>
  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/>
  <img src="https://img.shields.io/badge/Gunigorn-EEEEEE?style=flat&logo=Gunicorn&logoColor=green"/>
  <img src="https://img.shields.io/badge/Django-9EEFF?style=flat&logo=Django&logoColor=black"/>
