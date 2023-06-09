@@ -73,13 +73,13 @@
 
 <div align="center">
 <p> 🧷IaC🧷 </p>
- <img src="https://img.shields.io/badge/Jenkins-000000?style=flat&logo=Jenkins&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Jenkins-FFFFFF?style=flat&logo=Jenkins&logoColor=white"/>
  <img src="https://img.shields.io/badge/Argo-181717?style=flat&logo=Argo&logoColor=orange"/>
 </div>
 
 <div align="center">
 <p> ⛓️TOOLS⛓️ </p>
- <img src="https://img.shields.io/badge/Notion-FFFFFF?style=flat&logo=Notion&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/>
  <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white"/>
  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/>
  <img src="https://img.shields.io/badge/Miro-FFFF00?style=flat&logo=Miro&logoColor=yellow"/>
