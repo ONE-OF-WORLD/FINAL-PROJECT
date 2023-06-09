@@ -70,13 +70,24 @@
 
 # 📢 STACK
 
-
+<div align="center">
+<p> 🖥️모니터링🖥️ </p>
+ <img src="https://img.shields.io/badge/Prometheus-FFC7A0?style=flat&logo=Prometheus&logoColor=orange"/>
+ <img src="https://img.shields.io/badge/Grafana-FFD1C2?style=flat&logo=Grafana&logoColor=orange"/>
+</div>
+<br>
+<div align="center">
+<p> ⚓⚓ </p>
+ <img src="https://img.shields.io/badge/Docker-33B8FF?style=flat&logo=Docker&logoColor=blue"/>
+ <img src="https://img.shields.io/badge/Kubernetes-33B8FF?style=flat&logo=Kubernetes&logoColor=blue"/>
+</div>
+<br>
 <div align="center">
 <p> 🧷IaC🧷 </p>
  <img src="https://img.shields.io/badge/Jenkins-FF161D?style=flat&logo=Jenkins&logoColor=white"/>
  <img src="https://img.shields.io/badge/Argo-181717?style=flat&logo=Argo&logoColor=orange"/>
 </div>
-
+<br>
 <div align="center">
 <p> ⛓️TOOLS⛓️ </p>
  <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/>
