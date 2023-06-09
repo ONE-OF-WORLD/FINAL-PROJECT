@@ -88,16 +88,21 @@
  <img src="https://img.shields.io/badge/Ansible-EDC2FF?style=flat&logo=Ansible&logoColor=black"/>
  <img src="https://img.shields.io/badge/Terraform-C0C2FF?style=flat&logo=Terraform&logoColor=blue"/>
  <br>
- <img src="https://img.shields.io/badge/Jenkins-FF161D?style=flat&logo=Jenkins&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Jenkins-FFEE33?style=flat&logo=Jenkins&logoColor=white"/>
  <img src="https://img.shields.io/badge/Argo-FFFFFF?style=flat&logo=Argo&logoColor=orange"/>
 </div>
 <br>
 <div align="center">
 <p> ⛓️TOOLS⛓️ </p>
  <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/>
- <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white"/>
- <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/>
  <img src="https://img.shields.io/badge/Miro-FFFF00?style=flat&logo=Miro&logoColor=yellow"/>
+ <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Nginx-005500?style=flat&logo=Nginx&logoColor=green"/>
+ <img src="https://img.shields.io/badge/React-FFFFFF?style=flat&logo=React&logoColor=blue"/> <br>
+ <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Gunigorn-EEEEEE?style=flat&logo=Gunicorn&logoColor=green"/>
+ <img src="https://img.shields.io/badge/Django-9EEFF?style=flat&logo=Django&logoColor=black"/>
+ <img src="https://img.shields.io/badge/Pycharm-FFFFEE?style=flat&logo=Pycharm&logoColor=yellow"/>
 </div>
 
 ## 💻Clone-Coding
