@@ -79,11 +79,15 @@
 <div align="center">
 <p> ⚓⚓ </p>
  <img src="https://img.shields.io/badge/Docker-33B8FF?style=flat&logo=Docker&logoColor=blue"/>
+ <img src="https://img.shields.io/badge/Ansible-33B8FF?style=flat&logo=Ansible&logoColor=blue"/>
+
  <img src="https://img.shields.io/badge/Kubernetes-33B8FF?style=flat&logo=Kubernetes&logoColor=blue"/>
 </div>
 <br>
 <div align="center">
 <p> 🧷IaC🧷 </p>
+ <img src="https://img.shields.io/badge/Ansible-33B8FF?style=flat&logo=Ansible&logoColor=black"/>
+ <img src="https://img.shields.io/badge/Terraform-33B8FF?style=flat&logo=Terraform&logoColor=blue"/>
  <img src="https://img.shields.io/badge/Jenkins-FF161D?style=flat&logo=Jenkins&logoColor=white"/>
  <img src="https://img.shields.io/badge/Argo-181717?style=flat&logo=Argo&logoColor=orange"/>
 </div>
@@ -94,7 +98,6 @@
  <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white"/>
  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/>
  <img src="https://img.shields.io/badge/Miro-FFFF00?style=flat&logo=Miro&logoColor=yellow"/>
- <img src="https://img.shields.io/badge/Bastion-D9D9DB?styl=flat&logo=Bastion&logoColor=grey"/>
 </div>
 
 ## 💻Clone-Coding
