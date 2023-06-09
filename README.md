@@ -71,25 +71,24 @@
 # 📢 STACK
 
 <div align="center">
-<p> 🖥️모니터링🖥️ </p>
+<p> 🖥️Monitoring🖥️ </p>
  <img src="https://img.shields.io/badge/Prometheus-FFC7A0?style=flat&logo=Prometheus&logoColor=orange"/>
  <img src="https://img.shields.io/badge/Grafana-FFD1C2?style=flat&logo=Grafana&logoColor=orange"/>
 </div>
 <br>
 <div align="center">
-<p> ⚓⚓ </p>
- <img src="https://img.shields.io/badge/Docker-33B8FF?style=flat&logo=Docker&logoColor=blue"/>
- <img src="https://img.shields.io/badge/Ansible-33B8FF?style=flat&logo=Ansible&logoColor=blue"/>
-
- <img src="https://img.shields.io/badge/Kubernetes-33B8FF?style=flat&logo=Kubernetes&logoColor=blue"/>
+<p> ⚓   ⚓ </p>
+ <img src="https://img.shields.io/badge/Docker-9EE2FF?style=flat&logo=Docker&logoColor=blue"/>
+ <img src="https://img.shields.io/badge/Kubernetes-9EE2FF?style=flat&logo=Kubernetes&logoColor=blue"/>
 </div>
 <br>
 <div align="center">
 <p> 🧷IaC🧷 </p>
- <img src="https://img.shields.io/badge/Ansible-33B8FF?style=flat&logo=Ansible&logoColor=black"/>
- <img src="https://img.shields.io/badge/Terraform-33B8FF?style=flat&logo=Terraform&logoColor=blue"/>
+ <img src="https://img.shields.io/badge/Ansible-EDC2FF?style=flat&logo=Ansible&logoColor=black"/>
+ <img src="https://img.shields.io/badge/Terraform-C0C2FF?style=flat&logo=Terraform&logoColor=blue"/>
+ <br>
  <img src="https://img.shields.io/badge/Jenkins-FF161D?style=flat&logo=Jenkins&logoColor=white"/>
- <img src="https://img.shields.io/badge/Argo-181717?style=flat&logo=Argo&logoColor=orange"/>
+ <img src="https://img.shields.io/badge/Argo-FFFFFF?style=flat&logo=Argo&logoColor=orange"/>
 </div>
 <br>
 <div align="center">
