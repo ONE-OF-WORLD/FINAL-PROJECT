@@ -88,7 +88,7 @@
  <img src="https://img.shields.io/badge/Ansible-EDC2FF?style=flat&logo=Ansible&logoColor=black"/>
  <img src="https://img.shields.io/badge/Terraform-C0C2FF?style=flat&logo=Terraform&logoColor=blue"/>
  <br>
- <img src="https://img.shields.io/badge/Jenkins-FFEE33?style=flat&logo=Jenkins&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Jenkins-000000?style=flat&logo=Jenkins&logoColor=white"/>
  <img src="https://img.shields.io/badge/Argo-FFFFFF?style=flat&logo=Argo&logoColor=orange"/>
 </div>
 <br>
