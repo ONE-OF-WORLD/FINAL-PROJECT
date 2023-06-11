@@ -107,12 +107,15 @@
  <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/>
  <img src="https://img.shields.io/badge/Miro-FFFF00?style=flat&logo=Miro&logoColor=yellow"/>
  <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white"/>
+ <br>
  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Pycharm-FFFFEE?style=flat&logo=Pycharm&logoColor=yellow"/>
  <img src="https://img.shields.io/badge/Django-9EEFF?style=flat&logo=Django&logoColor=black"/>
+ <br>
  <img src="https://img.shields.io/badge/Kafka-97BD9B?style=flat&logo=Apachekafka&logoColor=black"/>
  <img src="https://img.shields.io/badge/ElasticSearch-FFF99B?style=flat&logo=Elasticsearch&logoColor=yellow"/>
  <img src="https://img.shields.io/badge/Logstash-FFBD9B?style=flat&logo=Logstash&logoColor=white"/>
- <img src="https://img.shields.io/badge/Pycharm-FFFFEE?style=flat&logo=Pycharm&logoColor=yellow"/>
+ 
 </div>
 
 ## 💻Clone-Coding
