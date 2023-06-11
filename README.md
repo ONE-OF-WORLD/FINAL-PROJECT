@@ -74,13 +74,13 @@
 <p> 🖥️Monitoring🖥️ </p>
  <img src="https://img.shields.io/badge/Prometheus-FFC7A0?style=flat&logo=Prometheus&logoColor=orange"/>
  <img src="https://img.shields.io/badge/Grafana-FFD1C2?style=flat&logo=Grafana&logoColor=orange"/>
- <img src="https://img.shields.io/badge/Kibana-9EEFF?style=flat&logo=Kibana&logoColor=blue"/>
+ <img src="https://img.shields.io/badge/Kibana-FF6EB3?style=flat&logo=Kibana&logoColor=blue"/>
 </div>
 <br>
 <div align="center">
 <p> ⚓   ⚓ </p>
  <img src="https://img.shields.io/badge/Docker-9EE2FF?style=flat&logo=Docker&logoColor=blue"/>
- <img src="https://img.shields.io/badge/Harbor-9EE3FF?style=flat&logo=Harbor&logoColor=blue"/>
+ <img src="https://img.shields.io/badge/Harbor-A8FFCC?style=flat&logo=Harbor&logoColor=blue"/>
  <img src="https://img.shields.io/badge/Kubernetes-9EE4FF?style=flat&logo=Kubernetes&logoColor=blue"/>
 </div>
 <br>
@@ -104,9 +104,9 @@
  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/>
  <img src="https://img.shields.io/badge/Gunigorn-EEEEEE?style=flat&logo=Gunicorn&logoColor=green"/>
  <img src="https://img.shields.io/badge/Django-9EEFF?style=flat&logo=Django&logoColor=black"/>
- <img src="https://img.shields.io/badge/Kafka-9EEFF?style=flat&logo=Apachekafka&logoColor=black"/>
- <img src="https://img.shields.io/badge/ElasticSearch-9EEFF?style=flat&logo=Elasticsearch&logoColor=blue"/>
- <img src="https://img.shields.io/badge/Logstash-9EEFF?style=flat&logo=Logstash&logoColor=blue"/>
+ <img src="https://img.shields.io/badge/Kafka-97BD9B?style=flat&logo=Apachekafka&logoColor=black"/>
+ <img src="https://img.shields.io/badge/ElasticSearch-FFF99B?style=flat&logo=Elasticsearch&logoColor=blue"/>
+ <img src="https://img.shields.io/badge/Logstash-FFBD9B?style=flat&logo=Logstash&logoColor=blue"/>
  <img src="https://img.shields.io/badge/Pycharm-FFFFEE?style=flat&logo=Pycharm&logoColor=yellow"/>
 </div>
 
