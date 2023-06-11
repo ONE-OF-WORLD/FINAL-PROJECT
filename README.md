@@ -2,7 +2,7 @@
 <div align="center">
  <img src="https://github.com/ONE-OF-WORLD/FINAL-PROJECT/blob/0f29788ed0d54ed806fdabaf71dc9ca9d9366860/img/%EA%B7%B8%EB%A6%BC1.png">
  <br>
-<b>💫단계별 인프라 구축으로 천만 인프라 구축하기</b><br>
+<b>💫글로벌 SNS로 도약하기 위한 단계별 인프라 설계 및 </b><br>
  💫팀명 : 로캣모션 (roCATmotion) <br>
  💫프로젝트 기간: 2023.05.30 ~ 2023.07.20<br>
 </div>
@@ -87,14 +87,14 @@
 </div>
 <br>
 <div align="center">
-<p> ⚓   ⚓ </p>
+<p> ⚓ Container ⚓ </p>
  <img src="https://img.shields.io/badge/Docker-9EE2FF?style=flat&logo=Docker&logoColor=blue"/>
  <img src="https://img.shields.io/badge/Harbor-A8FFCC?style=flat&logo=Harbor&logoColor=blue"/>
  <img src="https://img.shields.io/badge/Kubernetes-9EE4FF?style=flat&logo=Kubernetes&logoColor=blue"/>
 </div>
 <br>
 <div align="center">
-<p> 🧷IaC🧷 </p>
+<p> 🧷 IaC 🧷 </p>
  <img src="https://img.shields.io/badge/Ansible-EDC2FF?style=flat&logo=Ansible&logoColor=black"/>
  <img src="https://img.shields.io/badge/Terraform-C0C2FF?style=flat&logo=Terraform&logoColor=blue"/>
  <br>
