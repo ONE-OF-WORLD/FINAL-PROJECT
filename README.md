@@ -2,7 +2,7 @@
 <div align="center">
  <img src="https://github.com/ONE-OF-WORLD/FINAL-PROJECT/blob/0f29788ed0d54ed806fdabaf71dc9ca9d9366860/img/%EA%B7%B8%EB%A6%BC1.png">
  <br>
-<b>💫글로벌 SNS로 도약하기 위한 단계별 인프라 설계 및 </b><br>
+<b>💫SNS 시스템 설계 및 구축축 </b><br>
  💫팀명 : 로캣모션 (roCATmotion) <br>
  💫프로젝트 기간: 2023.05.30 ~ 2023.07.20<br>
 </div>
@@ -67,11 +67,13 @@
 </div>
 
 <br />
+# 🗂️ Architecture
+
 
 # 📢 STACK
 
 <div align="center">
-<p> 🗒️Front-Back🗒️</p>
+<p> 🗒️Front-Back </p>
  <img src="https://img.shields.io/badge/Gunigorn-EEEEEE?style=flat&logo=Gunicorn&logoColor=green"/>
   <img src="https://img.shields.io/badge/Nginx-005500?style=flat&logo=Nginx&logoColor=green"/>
  <img src="https://img.shields.io/badge/React-FFFFFF?style=flat&logo=React&logoColor=blue"/> 
@@ -80,7 +82,7 @@
 <br>
 
 <div align="center">
-<p> 🖥️Monitoring🖥️ </p>
+<p> 🖥️ Monitoring </p>
  <img src="https://img.shields.io/badge/Prometheus-FFC7A0?style=flat&logo=Prometheus&logoColor=orange"/>
  <img src="https://img.shields.io/badge/Grafana-FFD1C2?style=flat&logo=Grafana&logoColor=orange"/>
 </div>
@@ -88,31 +90,29 @@
 
 
 <div align="center">
-<p> ELK </p>
- <img src="https://img.shields.io/badge/ElasticSearch-FFF99B?style=flat&logo=Elasticsearch&logoColor=yellow"/>
- <img src="https://img.shields.io/badge/Logstash-FFBD9B?style=flat&logo=Logstash&logoColor=white"/>
- <img src="https://img.shields.io/badge/Kibana-FF6EB3?style=flat&logo=Kibana&logoColor=pink"/>
+<p> 🧩 CICD </p>
+ <img src="https://img.shields.io/badge/Jenkins-000000?style=flat&logo=Jenkins&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Argo-FFFFFF?style=flat&logo=Argo&logoColor=orange"/>
 </div>
 <br>
 
 <div align="center">
-<p> ⚓ Container ⚓ </p>
+<p> ⚓ Container </p>
  <img src="https://img.shields.io/badge/Docker-9EE2FF?style=flat&logo=Docker&logoColor=blue"/>
  <img src="https://img.shields.io/badge/Harbor-A8FFCC?style=flat&logo=Harbor&logoColor=blue"/>
  <img src="https://img.shields.io/badge/Kubernetes-9EE4FF?style=flat&logo=Kubernetes&logoColor=blue"/>
 </div>
 <br>
+
 <div align="center">
-<p> 🧷 IaC 🧷 </p>
- <img src="https://img.shields.io/badge/Ansible-EDC2FF?style=flat&logo=Ansible&logoColor=black"/>
+<p> 🧷 IaC </p>
  <img src="https://img.shields.io/badge/Terraform-C0C2FF?style=flat&logo=Terraform&logoColor=blue"/>
  <br>
- <img src="https://img.shields.io/badge/Jenkins-000000?style=flat&logo=Jenkins&logoColor=white"/>
- <img src="https://img.shields.io/badge/Argo-FFFFFF?style=flat&logo=Argo&logoColor=orange"/>
 </div>
 <br>
+
 <div align="center">
-<p> ⛓️TOOLS⛓️ </p>
+<p> ⛓️TOOLS </p>
  <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/>
  <img src="https://img.shields.io/badge/Miro-FFFF00?style=flat&logo=Miro&logoColor=yellow"/>
  <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white"/>
@@ -121,7 +121,6 @@
  <img src="https://img.shields.io/badge/Pycharm-FFFFEE?style=flat&logo=Pycharm&logoColor=yellow"/>
  <img src="https://img.shields.io/badge/Django-9EEFF?style=flat&logo=Django&logoColor=black"/>
  <br>
- <img src="https://img.shields.io/badge/Kafka-97BD9B?style=flat&logo=Apachekafka&logoColor=black"/>
 
  
 </div>
