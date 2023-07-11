@@ -1,17 +1,17 @@
-# 🚀TEAM. RoCAT Motion
-<div align="center">
- <img src="https://github.com/ONE-OF-WORLD/FINAL-PROJECT/blob/main/img/rocatmotion.png">
- <br>
-</br>
-
-<b>💫SNS 시스템 설계 및 구축 </b><br>
- 💫팀명 : 로캣모션 (roCATmotion) <br>
- 💫프로젝트 기간: 2023.05.30 ~ 2023.07.20<br>
+<h1> 🚀 TEAM. RoCAT Motion </h1>
+<div  align="center">
+  <img width="40%" src="https://github.com/ONE-OF-WORLD/FINAL-PROJECT/blob/main/img/houstagram.png" alt="houstagram">
 </div>
+</br>
+<h3 align="center">🏠 Houstagram! 🏠</h3>
 
-
-# 🗒️베포주 : [UNNAME](http://houstagram.com/)
-
+- **팀 명 :**  Team RoCATmotion
+- **프로젝트 명 :** SNS 시스템 설계 및 구축
+- **프로젝트 기간 :** 2023.05.30 ~ 2023.07.20
+- **한줄 소개 :** SNS 시스템 설계 및 구축
+- **팀원 :** 백승준(팀장), 김호현, 이정훈, 은효경
+- **노션 :** [🗂️ 노션 ](https://www.notion.so/6b6d769f8b96480b9e54e11ad8116778?v=8675726117704b729b249614526fec92&pvs=4)
+- **배포 링크 :** [🏠 Houstagram](http://houstagram.com/)
 
 
 # 🚀TEAM MEMBER
@@ -48,8 +48,6 @@
 |🌒1단계|🌓2단계|🌕3단계|
 
 
-# VIEW
-<img src="https://github.com/ONE-OF-WORLD/FINAL-PROJECT/blob/main/img/houstagram.png">
 
 # 📢 STACK
 
