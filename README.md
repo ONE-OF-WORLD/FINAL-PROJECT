@@ -1,6 +1,6 @@
 # 🚀TEAM. RoCAT Motion
 <div align="center">
- <img src="https://github.com/ONE-OF-WORLD/FINAL-PROJECT/blob/main/img/rocat.png">
+ <img src="https://github.com/ONE-OF-WORLD/FINAL-PROJECT/blob/main/img/rocatmotion.png">
  <br>
 </br>
 
