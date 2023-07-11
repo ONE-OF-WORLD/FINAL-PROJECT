@@ -81,20 +81,12 @@
 </div>
 <br>
 
-<div>
-<h4 align="left">⛓️TOOLS</h4>
- <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/>
- <img src="https://img.shields.io/badge/Miro-FFFF00?style=flat&logo=Miro&logoColor=yellow"/>
- <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white"/>
- </br>
- <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/>
- <img src="https://img.shields.io/badge/Pycharm-FFFFEE?style=flat&logo=Pycharm&logoColor=yellow"/>
- <img src="https://img.shields.io/badge/Django-9EEFF?style=flat&logo=Django&logoColor=black"/>
- <br> 
-</div>
+
+![TOOL](./img/tool.png)
 
 ![AWS_SERVICE](./img/aws_service.png)
 
+<br/>
 ## 💻Clone-Coding
 - `FRONT` : 💫[FRONT](https://github.com/ONE-OF-WORLD/FINAL-FRONT)
 - `BACK` : 💫[BACK](https://github.com/ONE-OF-WORLD/FINAL-BACK)
