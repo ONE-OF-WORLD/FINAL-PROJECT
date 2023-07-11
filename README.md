@@ -7,6 +7,7 @@
  💫프로젝트 기간: 2023.05.30 ~ 2023.07.20<br>
 </div>
 
+
 ## 🗒️Notion : [UNNAME](https://www.notion.so/81db5e3e62be49478e21616d141780a7?v=f314271f88124867956f929affc952a7&pvs=4)
 
 
@@ -67,7 +68,16 @@
 </div>
 
 <br />
+
 # 🗂️ Architecture
+
+|![네트워크 디자인](./img/네트워크디자인.drawio.png)|![CICD](./img/CICD.drawio.png)|
+|:---:|:---:|
+|🗂️네트워크 디자인|🧩CICD|
+
+|![1단계](./img/1단계_최종.drawio.png)|![2단계](./img/2단계_최종.drawio.png)|![3단계](./img/3단계_최종.drawio.png)|
+|:---:|:---:|:---:|
+|🌒1단계|🌓2단계|🌕3단계|
 
 
 # 📢 STACK
