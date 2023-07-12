@@ -19,7 +19,7 @@
 |:---:|:---:|:---:|:---:|
 |[백승준](https://github.com/Santhaim)|[김호현](https://github.com/kimohyeon)|[이정훈](https://github.com/gugucone999)|[은효경](https://github.com/MintBANG)|
 |팀장|팀원|팀원|팀원|
-|<p align="left"> - Terraform <br/> - Route 53|<p align="left"> - VPC/Subnet <br/> - EKS-3tier <br/> - EKS-ALB |<p align="left"> - CI/CD Server <br/> - Jenkins <br/> - ArgoCD | <p align="left"> - Monitoring <br/> - Jmeter test <br/> - PPT 및 문서 작업|
+|<p align="left"> - Terraform <br/> - Route 53|<p align="left"> - VPC/Subnet <br/> - EKS-3tier <br/> - EKS-ALB |<p align="left"> - CI/CD Server <br/> - Jenkins <br/> - ArgoCD | <p align="left"> - Monitoring <br/> - Total Manual & PPT|
   
 </div>
 </details>
@@ -44,47 +44,10 @@
 <br/>
 
 # 📢 STACK
-<div>
-<h4 align="left">🗒️ Front-Back</h4>
- <img src="https://img.shields.io/badge/Gunigorn-EEEEEE?style=flat&logo=Gunicorn&logoColor=green"/>
-  <img src="https://img.shields.io/badge/Nginx-005500?style=flat&logo=Nginx&logoColor=green"/>
- <img src="https://img.shields.io/badge/React-FFFFFF?style=flat&logo=React&logoColor=blue"/> 
- <img src="https://img.shields.io/badge/Node.js-FFFFEE?style=flat&logo=Node.js&logoColor=deepgreen"/> <br>
-</div>
-<br>
 
-<div>
-<h4 align="left">🧩 CICD</h4>
- <img src="https://img.shields.io/badge/Jenkins-000000?style=flat&logo=Jenkins&logoColor=white"/>
- <img src="https://img.shields.io/badge/Argo-FFFFFF?style=flat&logo=Argo&logoColor=orange"/>
-</div>
-<br>
-
-<div>
-<h4 align="left">⚓ Container</h4>
- <img src="https://img.shields.io/badge/Docker-9EE2FF?style=flat&logo=Docker&logoColor=blue"/>
- <img src="https://img.shields.io/badge/Kubernetes-9EE4FF?style=flat&logo=Kubernetes&logoColor=blue"/>
-</div>
-<br>
-
-<div>
-<h4 align="left">🧷 IaC</h4>
- <img src="https://img.shields.io/badge/Terraform-C0C2FF?style=flat&logo=Terraform&logoColor=blue"/>
- <br>
-</div>
-<br>
-
-<div>
-<h4 align="left">🖥️ Monitoring</h4>
- <img src="https://img.shields.io/badge/Prometheus-FFC7A0?style=flat&logo=Prometheus&logoColor=orange"/>
- <img src="https://img.shields.io/badge/Grafana-FFD1C2?style=flat&logo=Grafana&logoColor=orange"/>
-</div>
-<br>
+![STACK](./img/stack.png)
 
 
-![TOOL](./img/tool.png)
-
-![AWS_SERVICE](./img/aws_service.png)
 
 <br/>
 
