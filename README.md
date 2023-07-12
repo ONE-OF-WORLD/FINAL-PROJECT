@@ -19,7 +19,7 @@
 |:---:|:---:|:---:|:---:|
 |[백승준](https://github.com/Santhaim)|[김호현](https://github.com/kimohyeon)|[이정훈](https://github.com/gugucone999)|[은효경](https://github.com/MintBANG)|
 |팀장|팀원|팀원|팀원|
-|<p align="left"> - Terraform <br/> - Route 53|<p align="left"> - VPC/Subnet <br/> - EKS-3tier <br/> - EKS-ALB |<p align="left"> - CI/CD Server <br/> - Jenkins <br/> - ArgoCD | <p align="left"> - Monitoring <br/> - Total Manual & PPT|
+|<p align="left"> - Terraform <br/> - Route 53 <br/> - CDN|<p align="left"> - VPC/Subnet <br/> - EKS-3tier <br/> - Karpenter |<p align="left"> - CI/CD Server <br/> - Jenkins <br/> - ArgoCD | <p align="left"> - Monitoring <br/> - Total Manual & PPT|
   
 </div>
 </details>
