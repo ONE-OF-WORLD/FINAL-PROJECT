@@ -30,7 +30,7 @@
 <br />
 
 ## ⏱️Time-Line
-![전체일정](https://github.com/ONE-OF-WORLD/FINAL-PROJECT/blob/main/img/wbs.png)
+![전체일정]([https://github.com/ONE-OF-WORLD/FINAL-PROJECT/blob/main/img/wbs.png](https://github.com/ONE-OF-WORLD/FINAL-PROJECT/blob/main/img/wbs.drawio.png))
 
 <br/>
 
